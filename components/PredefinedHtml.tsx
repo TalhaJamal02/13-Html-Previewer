@@ -15,9 +15,11 @@ export const PredefinedHtml =
             </header>
             <main>
               <section>
+                <br />
                 <p>This is a <strong>predefined HTML</strong> snippet with styles for <i>demonstration purposes</i>.</p>
               </section>
               <section>
+                <br />
                 <ul>
                   <li>Responsive Design</li>
                   <li>Clean Code</li>
@@ -26,6 +28,7 @@ export const PredefinedHtml =
               </section>
             </main>
             <footer>
+              <br />
               <p>&copy; 2024 My Website. All rights reserved.</p>
             </footer>
           </div>
